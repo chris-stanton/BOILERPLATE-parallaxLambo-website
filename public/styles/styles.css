@@ -15,21 +15,21 @@ html, body {
 }
 
 .first {
-  background-image: url(../assets/images/pic_one.jpg);
+  background-image: url(../assets/images/pic_one.png);
 }
 
 .second {
-  background-image: url(../assets/images/pic_two.jpg);
+  background-image: url(../assets/images/pic_two.png);
   height: 72%;
 }
 
 .three {
-  background-image: url(../assets/images/pic_three.jpg);
+  background-image: url(../assets/images/pic_three.png);
   height: 72%;
 }
 
 .four {
-  background-image: url(../assets/images/pic_four.jpg);
+  background-image: url(../assets/images/pic_four.png);
   height: 72%;
 }
 
