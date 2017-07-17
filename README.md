@@ -38,7 +38,7 @@
 
 ---
 
-<!-- #### App can be viewed at: https://parallaxlambo.herokuapp.com/ -->
+#### App can be viewed at: https://parallaxlambo.herokuapp.com/
 
 ---
 
