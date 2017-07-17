@@ -21,7 +21,9 @@
 
 - *Desktop Views*
 
+
   <img src="./public/assets/images/screenshots/screenshotOne.png" width="80%">
+
 
   <img src="./public/assets/images/screenshots/screenshotTwo.png" width="80%">
 
