@@ -30,6 +30,12 @@
 
   <img src="./public/assets/images/screenshots/screenshotTwo.png" width="80%">
 
+
+- *Desktop View3*
+
+
+  <img src="./public/assets/images/screenshots/screenshotThree.png" width="80%">
+
 ---
 
 #### App can be viewed at: https://parallaxlambo.herokuapp.com/
