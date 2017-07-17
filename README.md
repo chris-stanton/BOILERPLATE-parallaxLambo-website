@@ -19,10 +19,12 @@
 ### Description:
 ###### An HTML and CSS remake of an Lamborghini Aventador.
 
-- *Desktop Views*
+- *Desktop View1*
 
 
   <img src="./public/assets/images/screenshots/screenshotOne.png" width="80%">
+
+- *Desktop View2*
 
 
   <img src="./public/assets/images/screenshots/screenshotTwo.png" width="80%">
