@@ -6,6 +6,7 @@
   1. HTML5
   2. CSS3
   3. ES6
+  4. Flex Box
 
 ---
 
@@ -17,6 +18,12 @@
 
 ### Description:
 ###### An HTML and CSS remake of an Lamborghini Aventador.
+
+- *Desktop Views*
+
+  <img src="./public/assets/images/screenshots/screenshotOne.png" width="80%">
+
+  <img src="./public/assets/images/screenshots/screenshotTwo.png" width="80%">
 
 ---
 
