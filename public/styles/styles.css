@@ -84,3 +84,15 @@ html, body {
   left: 5%;
   transform: translate(0%, -50%);
 }
+
+footer {
+  text-align: center;
+  position: fixed;
+  background-color: #000000;
+  opacity: 0.5;
+  color: #ffffff;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 10px 0px 10px 0px;
+}
